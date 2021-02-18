@@ -6,4 +6,5 @@
 * CAD VBA选择集使用
 * CAD使用VBA调用Windows摄像头
 * VBA窗口设计
+* 涉及word，excel VBA处理，以及CAD调用、处理等
 * 等一些其他乱七八糟的功能。。。
